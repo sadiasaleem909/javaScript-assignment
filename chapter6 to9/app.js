@@ -25,5 +25,5 @@
 // document.write("Hi " + name)
 
 // question4
-var num =prompt("enter a number, 5");
-document.write("Multiplication table of " + num + "<br/><br/>");
+// var num =prompt("enter a number, 5");
+// document.write("Multiplication table of " + num + "<br/><br/>");
