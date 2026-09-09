@@ -47,9 +47,9 @@
 
 // Question 9
 
-let colors = ["Red", "Blue", "Black"];
+// let colors = ["Red", "Blue", "Black"];
 
-document.write("Original array: " + colors + " </br></br>")
+// document.write("Original array: " + colors + " </br></br>")
 
 // a)
 // let colorStart = prompt("What color you want at the begining??");
